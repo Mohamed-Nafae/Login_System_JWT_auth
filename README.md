@@ -1,7 +1,5 @@
 # Android Login System with JWT Authentication
 
-**Author:** Benmeddour Mohamed Nafae
-
 ## Overview
 
 This Android app is a simple Login System with JSON Web Token (JWT) authentication. It follows the principles of Clean Architecture and utilizes Retrofit for network requests and Dependency Injection for better code organization.
