@@ -49,3 +49,8 @@ This Android app is a simple Login System with JSON Web Token (JWT) authenticati
 
 Make sure to replace the version numbers with the latest versions available.
 
+## Final Notes
+I hope you find this project helpful for your android development journey! Feel free to use the code as a template for your own applications.
+
+**Developed By BM**
+
